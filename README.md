@@ -2,7 +2,7 @@
 1.Create the Mongodb enviroment:  
 [Install MongoDB Community Edition on macOS](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)  
 [mongodb/homebrew-brew](https://github.com/mongodb/homebrew-brew)  
-2.[Homebrew国内如何自动安装（国内地址）](https://zhuanlan.zhihu.com/p/111014448) 
+2.[Homebrew国内如何自动安装（国内地址）](https://zhuanlan.zhihu.com/p/111014448)  
 3.You just add the code below into the （proxy） config/index.js to see the change:
 ```
 proxyTable: {
