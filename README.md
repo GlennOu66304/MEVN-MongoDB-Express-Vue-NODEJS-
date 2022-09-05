@@ -18,5 +18,7 @@ proxyTable: {
 
 
 
-### Resourcelist:
-1.Project guide:[MEVN 架构（MongoDB + Express + Vue + NODEJS）制做网站](https://www.shangmayuan.com/a/bacc5c7c7d2147bf8cf09568.html)  
+### Resourcelist:      
+
+1.Project guide:   
+[MEVN 架构（MongoDB + Express + Vue + NODEJS）制做网站](https://www.shangmayuan.com/a/bacc5c7c7d2147bf8cf09568.html)  
